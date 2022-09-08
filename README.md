@@ -13,7 +13,7 @@ Currently a 3rd Year Computer Science Student, but also an aspirant Web Develope
 #### **Technologies I've used:**
 
 <!-- TODO: Make technologies links takes you to repositories -->
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,unity,azure,blender,vscode,py,java,dark&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,unity,azure,blender,vscode,react,py,java,dark&theme=light)
 
 
 
