@@ -13,10 +13,3 @@ CS graduate & aspirant Web Developer.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,unity,azure,blender,vscode,react,py,java,dark&theme=light)
-
-
-
-#### Github Stats
-
-![Jan's Github Stats](https://github-readme-stats.vercel.app/api?username=Jan-art&count_private=true&theme=tokyonight&hide=contribs,prs)
-
