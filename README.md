@@ -3,13 +3,9 @@
 CS graduate & aspirant Web Developer. 
 
 - :computer: I’m currently working on small personal projects to augment my knowledge in coding whenever I get time.
-- 👨‍💻 Website coming soon: <img src="https://cdn3.emoji.gg/emojis/loading.gif" width = "22px" height="20px" alt="loading">
-- 📫 How to reach me: **Jan.singh.Official@gmail.com**
-- ⚡ Fun fact: Training to be a Calisthenics Pro.
-
 
 
 #### **Technologies I've used:**
 
 <!-- TODO: Make technologies links takes you to repositories -->
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,cs,unity,azure,blender,vscode,react,py,java,dark&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,cs,react,java,dart,flutter,unity,blender,vscode,azure,dark&theme=light)
